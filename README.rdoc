@@ -1,28 +1,9 @@
-== README
+Hi Jennifer! Here is the link to the heroku page: http://thawing-beach-8748.herokuapp.com/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I did the following:
+-I set up ruby, rails, git, and heroku
+-I created a simple homepage with my name in it. 
+-I sent code to Github, and I deployed to Heroku
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Errors:
+-
