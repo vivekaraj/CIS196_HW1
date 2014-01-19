@@ -2,8 +2,17 @@ Hi Jennifer! Here is the link to the heroku page: http://thawing-beach-8748.hero
 
 I did the following:
 -I set up ruby, rails, git, and heroku
+-I updated the Gemfile to run postgresql in production, but sqlite in development
 -I created a simple homepage with my name in it. 
 -I sent code to Github, and I deployed to Heroku
 
 Errors:
--
+-I was unable to add keys to Heroku
+--> I typed "heroku keys:add" 
+-My Heroku webpage did not sync with what my localhost output
+--> I need to make sure to type "git add ." and then "git commit -m initial"
+-"github repository doesn't exist"
+-->I need to make sure to manually create a repository in github first.
+
+Best,
+Vivek.
